@@ -44,12 +44,12 @@ The challenge focused on creating an interactive shopping cart experience while 
 
 ## Screenshot
 
-![Browser Extension Manager UI](./images/screenshot.pmg)
+![Browser Extension Manager UI](./images/screenshot.png)
 
 ## Links
 
 - Solution URL: [GitHub Repository](https://github.com/dlewisSTL/Product-List-with-Cart)
-- Live Site URL: [Live Demo](https://browser-extension-manager-eight-eta.vercel.app)
+- Live Site URL: [Live Demo](https://product-list-with-cart-steel.vercel.app)
 
 ---
 
