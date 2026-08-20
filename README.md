@@ -236,3 +236,4 @@ The development process remained hands-on, with AI acting as a collaboration and
 
 - Website - [Derek Lewis](https://derek-lewis.com/)
 - Frontend Mentor - [@dlewisSTL](https://www.frontendmentor.io/profile/dlewisSTL)
+
