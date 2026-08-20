@@ -486,7 +486,7 @@ main.product-list {
     height: 1.25rem;
 }
 
-.carbon-tree img {
+.carbon-tree svg {
     width:100%;
     height: auto;
 }
