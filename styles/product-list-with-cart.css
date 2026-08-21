@@ -64,16 +64,6 @@ button:focus-visible, a:focus-visible {
     outline-offset: 3px;
 }
 
-@media (prefers-reduced-motion: reduce) {
-    .card {
-        transition: none;
-    }
-
-    .card:hover {
-        transform: none;
-    }
-}
-
 .sr-only {
     position: absolute;
     width: 1px;
